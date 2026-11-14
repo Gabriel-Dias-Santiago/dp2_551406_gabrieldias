@@ -1,0 +1,10 @@
+FIAP — PROVA DP 2026.2
+Disciplina: Desenvolvimento Cross-Platform com Flutter
+Projeto: Bairro em Dia — CitizenTech
+Integrante: Gabriel Dias Santiago
+RM: 551406
+
+Repositório GitHub:
+https://github.com/Gabriel-Dias-Santiago/dp2_551406_gabrieldias
+
+O repositório contém o projeto Flutter, o README e os prints das telas.
