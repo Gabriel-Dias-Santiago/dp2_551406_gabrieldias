@@ -24,6 +24,7 @@ Data: **13/11/2026**. Integrante: **Gabriel Dias Santiago — RM 551406**.
 | `flutter run -d linux --release` | App nativo iniciou com Impeller; o banco criado pelo aplicativo continha 4 registros, todos identificados como exemplos. |
 | Build/execução Android e iOS | **Não executados:** faltam Android SDK/emulador e ambiente macOS/Xcode. |
 | Cópia limpa + `flutter pub get` + `flutter run -d linux --release` | **Aprovado:** sem build, banco, `.dart_tool` ou configurações locais; app compilou, abriu e criou automaticamente 4 exemplos. |
+| Clone do repositório público + `flutter pub get` + `flutter run -d linux --release` | **Aprovado:** instalação, compilação e inicialização a partir do GitHub; banco criado automaticamente com os 4 exemplos. |
 
 ## Composição dos testes
 
@@ -74,7 +75,7 @@ NODE_PATH=/tmp/bairro-browser/node_modules node tool/browser_smoke.cjs
 - Arquivos SQLite web e fontes já incluídos no repositório.
 - Biblioteca SQLite para desktop obtida automaticamente pelas dependências e incorporada ao build; não é preciso instalar manualmente um servidor ou serviço SQLite.
 - Reabertura da conexão e reinicialização da aplicação verificadas nos testes e no roteiro web.
-- Instalação e execução foram verificadas também em uma **cópia limpa do código**, sem banco e arquivos gerados. O banco criado pela primeira execução continha os 4 exemplos esperados. A execução mobile ainda precisa ser conferida em dispositivo ou emulador.
+- Instalação e execução foram verificadas também em uma **cópia limpa do código**, sem banco e arquivos gerados. O banco criado pela primeira execução continha os 4 exemplos esperados. A instalação e a inicialização também foram verificadas a partir de um clone do repositório público. A execução mobile ainda precisa ser conferida em dispositivo ou emulador.
 
 ## Limites da validação
 
@@ -84,6 +85,8 @@ A análise estática, os testes automatizados e a execução web/Linux estão ve
 
 O item 4.2 do enunciado solicita um arquivo contendo o link do repositório acessível ao professor. O arquivo preparado é [Entrega_FIAP_DP2026_2_RM551406.pdf](../entrega/Entrega_FIAP_DP2026_2_RM551406.pdf).
 
-Repositório: https://github.com/Gabriel-Dias-Santiago/dp2_551406_gabrieldias
+Repositório público: https://github.com/Gabriel-Dias-Santiago/dp2_551406_gabrieldias
+
+O README, os 13 prints, os arquivos SQLite web e o PDF de entrega tiveram o acesso público conferido e o conteúdo comparado com os arquivos locais.
 
 O envio deve ser feito na área de trabalhos da disciplina no Portal do Aluno FIAP até **19/11/2026**. A publicação do repositório não substitui a submissão desse arquivo no portal.

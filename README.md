@@ -79,7 +79,7 @@ flutter devices
 flutter run -d <ID_DO_DISPOSITIVO>
 ```
 
-**Verificação realizada:** em uma cópia limpa, sem banco ou arquivos gerados, `flutter pub get` seguido de `flutter run -d linux --release` compilou, iniciou o app e criou automaticamente os quatro exemplos.
+**Verificação realizada:** em um clone do repositório público, sem banco ou arquivos gerados, `flutter pub get` seguido de `flutter run -d linux --release` compilou, iniciou o app e criou automaticamente os quatro exemplos.
 
 Não é necessário criar tabelas, executar migrações, configurar `.env`, iniciar servidor de API, criar contas ou carregar dados manualmente. O SQLite é criado pelo app na primeira operação de leitura. O `pubspec.lock` deve permanecer versionado.
 
