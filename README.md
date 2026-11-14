@@ -182,9 +182,9 @@ Capturas reais em viewport de 1440 × 1000 px, com os quatro exemplos iniciais:
 
 Conforme o item 4.2 do enunciado, o Portal do Aluno FIAP recebe um arquivo com o link do repositório. O código-fonte, o README e os prints permanecem no GitHub.
 
-Arquivo para anexar: [Entrega_FIAP_DP2026_2_RM551406.pdf](entrega/Entrega_FIAP_DP2026_2_RM551406.pdf).
+Arquivo para anexar: [link_repositorio.txt](entrega/link_repositorio.txt), contendo o link do projeto no GitHub.
 
-Prazo: **19/11/2026**, na área de trabalhos da disciplina Desenvolvimento Cross-Platform com Flutter. O arquivo de texto [link_repositorio.txt](entrega/link_repositorio.txt) contém os mesmos dados de identificação e o link.
+Prazo: **19/11/2026**, na área de trabalhos da disciplina Desenvolvimento Cross-Platform com Flutter.
 
 ## Validação
 

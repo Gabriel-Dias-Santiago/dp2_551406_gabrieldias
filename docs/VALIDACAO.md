@@ -83,10 +83,10 @@ A análise estática, os testes automatizados e a execução web/Linux estão ve
 
 ## Arquivo para envio
 
-O item 4.2 do enunciado solicita um arquivo contendo o link do repositório acessível ao professor. O arquivo preparado é [Entrega_FIAP_DP2026_2_RM551406.pdf](../entrega/Entrega_FIAP_DP2026_2_RM551406.pdf).
+O item 4.2 do enunciado solicita um arquivo contendo o link do repositório acessível ao professor. O arquivo preparado é [link_repositorio.txt](../entrega/link_repositorio.txt), contendo somente a URL do projeto.
 
 Repositório público: https://github.com/Gabriel-Dias-Santiago/dp2_551406_gabrieldias
 
-O README, os 13 prints, os arquivos SQLite web e o PDF de entrega tiveram o acesso público conferido e o conteúdo comparado com os arquivos locais.
+O README, os 13 prints e os arquivos SQLite web tiveram o acesso público conferido e o conteúdo comparado com os arquivos locais.
 
 O envio deve ser feito na área de trabalhos da disciplina no Portal do Aluno FIAP até **19/11/2026**. A publicação do repositório não substitui a submissão desse arquivo no portal.
